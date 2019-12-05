@@ -1,0 +1,10 @@
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.deps.json
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.json
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.dll
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.pdb
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.AssemblyInfo.cs
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.dll
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.pdb
